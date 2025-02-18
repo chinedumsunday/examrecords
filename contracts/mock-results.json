@@ -1,0 +1,30 @@
+{
+  "courseCode": "COS101",
+  "batchId": "Fall2024-Batch1",
+  "results": [
+    {
+      "studentName": "John Doe",
+      "studentId": "12345",
+      "walletAddress": "0xStudentWalletAddress1",
+      "examScore": 85.5,
+      "caScore": 78.0,
+      "grade": "A"
+    },
+    {
+      "studentName": "Jane Smith",
+      "studentId": "12346",
+      "walletAddress": "0xStudentWalletAddress2",
+      "examScore": 72.0,
+      "caScore": 65.5,
+      "grade": "B"
+    },
+    {
+      "studentName": "Michael Johnson",
+      "studentId": "12347",
+      "walletAddress": "0xStudentWalletAddress3",
+      "examScore": 60.0,
+      "caScore": 58.0,
+      "grade": "C"
+    }
+  ]
+}
